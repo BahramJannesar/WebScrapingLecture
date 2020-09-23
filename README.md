@@ -70,7 +70,7 @@ Requests is an Apache2 Licensed HTTP library, written in Python, for human being
 
 ### First Step :
 
-You need to install the all these python pakages on your environment for this job you must use the python pakage manager called **pip** 
+You need to install the all these python packages on your environment and for this job you must use the python package manager called **pip** :
     
     pip install requests
     pip install beautifulsoup4
