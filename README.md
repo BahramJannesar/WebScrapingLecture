@@ -68,7 +68,7 @@ Requests is an Apache2 Licensed HTTP library, written in Python, for human being
 ![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/requests.jpg)
 
 
-### First Step :
+### Requirements :
 
 You need to install the all these python packages on your environment and for this job you must use the python package manager called **pip** :
     
