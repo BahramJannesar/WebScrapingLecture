@@ -37,6 +37,8 @@ You can hire a developer to build custom data extraction software for your speci
 Python is mostly known as the best web scraper language. It’s more like an all-rounder and can handle most of the web crawling related processes smoothly and 
 these highly evolved web scraping libraries make Python the best language for web scraping.
 
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/python-logo-master-v3-TM-flattened.png)
+
 #### Python libraries for Web Scraping :
 
 **Scrapy** and **Beautiful Soup** are among the widely used frameworks based on Python that makes scraping using this language such an easy route to take.
@@ -44,14 +46,17 @@ these highly evolved web scraping libraries make Python the best language for we
 **Beautiful Soup :** 
 
 Beautiful soup is a Python library that’s designed for fast and highly efficient web scraping. Some of the notable features are Pythonic idioms for navigation, searching, and modifying a parse tree. Beautiful Soup can also convert incoming documents to Unicode and outgoing documents to UTF-8. Beautiful Soup works on popular Python parsers like lxml and html5lib, which allow you to try different parsing methodologies.
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/bs4.png)
 
 **Scrapy :**
 
 Scrapy has some great features like support for XPath, enhanced performance owing to the Twisted library, and a variety of debugging tools.
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/scrapy.jpg)
 
 **Selenium :**
 
 Selenium is an open-source web-based automation tool.
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/selenium.png)
 
 
 
