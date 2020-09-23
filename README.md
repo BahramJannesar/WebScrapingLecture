@@ -47,17 +47,15 @@ these highly evolved web scraping libraries make Python the best language for we
 
 Beautiful soup is a Python library that’s designed for fast and highly efficient web scraping. Some of the notable features are Pythonic idioms for navigation, searching, and modifying a parse tree. Beautiful Soup can also convert incoming documents to Unicode and outgoing documents to UTF-8. Beautiful Soup works on popular Python parsers like lxml and html5lib, which allow you to try different parsing methodologies.
 
-![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/bs4.png)
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/bs4_1.png)
 
 **Scrapy :**
 
 Scrapy has some great features like support for XPath, enhanced performance owing to the Twisted library, and a variety of debugging tools.
 
-![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/scrapy.jpg)
-
 **Selenium :**
 
-Selenium is an open-source web-based automation tool.
+Selenium is an open-source web-based automation tool. Selenium allows you to define tests and automatically detect results of these tests on a pre-decided browser. A suite of Selenium functions enables you to create step-by-step interactions with a webpage and assess the response of a browser to various changes. You can then decide if the response of the browser is in line with what you expect.
 
 ![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/selenium_1.png)
 
