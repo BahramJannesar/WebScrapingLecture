@@ -22,10 +22,10 @@ A web scraping software will automatically load and extract data from multiple p
 
 ### Methods of Web Scraping :
 
-**Using software**
+**Using software :** 
 
 Web Scraping software falls under 2 categories. First, which can be locally installed in your computer and second, which runs in cloud - browser based. WebHarvy, OutWit Hub, Visual Web Ripper etc. are examples of web scraping software which can be installed in your computer, whereas import.io, Mozenda etc. are examples of cloud data extraction platforms.
 
-**Writing code**
+**Writing code :**
 
 You can hire a developer to build custom data extraction software for your specific requirement. The developer can in-turn make use of web scraping APIs which helps him/her develop the software easily. For example apify.com lets you easily get APIs to scrape data from any website.
