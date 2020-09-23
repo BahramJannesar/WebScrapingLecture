@@ -59,6 +59,14 @@ Selenium is an open-source web-based automation tool. Selenium allows you to def
 
 ![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/selenium_1.png)
 
+**Requests :**
+
+Requests is a Python HTTP library, released under the Apache License 2.0. The goal of the project is to make HTTP requests simpler and more human-friendly and 
+Requests is one of the most popular python libraries that is not included with python, it has been proposed that requests be distributed with python by default.
+Requests is an Apache2 Licensed HTTP library, written in Python, for human beings.Python’s standard urllib2 module provides most of the HTTP capabilities you need, but the API is thoroughly broken. It was built for a different time — and a different web. It requires an enormous amount of work (even method overrides) to perform the simplest of tasks.
+
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/requests.jpg)
+
 
 
 
