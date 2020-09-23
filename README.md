@@ -56,7 +56,7 @@ Scrapy has some great features like support for XPath, enhanced performance owin
 **Selenium :**
 
 Selenium is an open-source web-based automation tool.
-![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/selenium.png)
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/selenium_1.png)
 
 
 
