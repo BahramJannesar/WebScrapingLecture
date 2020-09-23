@@ -8,7 +8,7 @@ How to web scraping with Request , Bs4 and Selenium library ?
 
 * **Cambridge Dictionary Scraper :** a tool for remove the background wallpaper from the walls.
 
-![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/web%20scraping%20jime.jpg)
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/scrapper-blades-500x500.png)
 
 ### What is Web Scraping ?
 
