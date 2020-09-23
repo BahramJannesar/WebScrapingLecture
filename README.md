@@ -34,7 +34,7 @@ You can hire a developer to build custom data extraction software for your speci
 
 ### What is the best programming language for Web Scraping ?
 
-Python is mostly known as the best web scraper language. It’s more like an all-rounder and can handle most of the web crawling related processes smoothly and 
+**[Python](https://www.python.org/)** is mostly known as the best web scraper language. It’s more like an all-rounder and can handle most of the web crawling related processes smoothly and 
 these highly evolved web scraping libraries make Python the best language for web scraping.
 
 ![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/python-logo-master-v3-TM-flattened.png)
