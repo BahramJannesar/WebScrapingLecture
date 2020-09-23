@@ -31,3 +31,20 @@ Web Scraping software falls under 2 categories. First, which can be locally inst
 **Writing code :**
 
 You can hire a developer to build custom data extraction software for your specific requirement. The developer can in-turn make use of web scraping APIs which helps him/her develop the software easily. For example apify.com lets you easily get APIs to scrape data from any website.
+
+### What is the best programming language for Web Scraping ?
+
+Python is mostly known as the best web scraper language. It’s more like an all-rounder and can handle most of the web crawling related processes smoothly and 
+these highly evolved web scraping libraries make Python the best language for web scraping.
+
+#### Python libraries for Web Scraping :
+
+**Scrapy** and **Beautiful Soup** are among the widely used frameworks based on Python that makes scraping using this language such an easy route to take.
+
+**Beautiful Soup :**
+
+
+
+
+
+
