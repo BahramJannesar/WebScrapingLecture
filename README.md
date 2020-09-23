@@ -1,8 +1,4 @@
-## Web Scraping Coruse
-
-How to web scraping with Request , Bs4 and Selenium library ?
-
-### What is the meaning of "Scrape" and "Scraper" ?
+## What is the meaning of "Scrape" and "Scraper" ?
 
 * **Cambridge Dictionary Scrap :** To remove an unwanted covering or a top layer from something, especially using a sharp edge or something rough.
 
