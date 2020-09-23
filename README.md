@@ -53,11 +53,9 @@ Beautiful soup is a Python library that’s designed for fast and highly efficie
 
 Scrapy has some great features like support for XPath, enhanced performance owing to the Twisted library, and a variety of debugging tools.
 
-![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/scrapy.jpg)
-
 **Selenium :**
 
-Selenium is an open-source web-based automation tool.
+Selenium is an open-source web-based automation tool. Selenium allows you to define tests and automatically detect results of these tests on a pre-decided browser. A suite of Selenium functions enables you to create step-by-step interactions with a webpage and assess the response of a browser to various changes. You can then decide if the response of the browser is in line with what you expect.
 
 ![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/selenium_1.png)
 
