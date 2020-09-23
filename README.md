@@ -8,6 +8,8 @@ How to web scraping with Request , Bs4 and Selenium library ?
 
 * **Cambridge Dictionary Scraper :** a tool for remove the background wallpaper from the walls.
 
+![](https://github.com/BahramJannesar/WebScrapingCoruse/blob/master/image/web%20scraping%20jime.jpg)
+
 ### What is Web Scraping ?
 
 Web Scraping (also termed Screen Scraping, Web Data Extraction, Web Harvesting etc.) is a technique employed to extract large amounts of data from websites whereby the data is extracted and saved to a local file in your computer or to a database in table (spreadsheet) format.
