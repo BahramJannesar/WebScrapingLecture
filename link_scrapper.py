@@ -83,7 +83,7 @@ def car_data_scrapper():
 if __name__ == "__main__":
 
     start = time.time()
-    #car_links_scrapper()
+    car_links_scrapper()
     car_data_scrapper()
     print(time.time() - start)
     
