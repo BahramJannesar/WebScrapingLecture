@@ -10,7 +10,7 @@ import json
 import os
 
 
-chromedriver = "/home/mars/Desktop/WebScrapingCoruse/chromedriver"
+chromedriver = "/home/mars/Desktop/WebScrapingCoruse/scrapingWithSelenium/chromedriver"
 os.environ["webdriver.chrome.driver"] = chromedriver
 chrome_option = Options()
 chrome_option.add_argument("--start-maximized")
